@@ -8,9 +8,9 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Transformation
+ * Action
  * takeSample
- * 语法（scala）：
+ * 语法（java）：
  * static java.util.List<T> takeSample(boolean withReplacement,
  *                          int num,
  *                          long seed)

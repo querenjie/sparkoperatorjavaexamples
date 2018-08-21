@@ -9,9 +9,9 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Transformation
+ * Action
  * takeOrdered
- * 语法（scala）：
+ * 语法（java）：
  * java.util.List<T> takeOrdered(int num)
  *
  * java.util.List<T> takeOrdered(int num,
