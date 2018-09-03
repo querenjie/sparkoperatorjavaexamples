@@ -1,0 +1,6 @@
+prod001,category01,10000
+prod002,category01,15000
+prod003,category02,8888
+prod004,category02,3333
+prod005,category03,30000
+prod006,category01,2222
